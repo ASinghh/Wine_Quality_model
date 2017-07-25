@@ -1,5 +1,5 @@
 # Wine_Quality_model
-My Flatmate Jayson believes that their is no good wine or bad wine, the quality is dependent on the magnitude of Placebo.
+My Flatmate Jayson believes that their is no good wine or bad wine,but the whole perception of quality is caused by Placebo.
 To prove him wrong, I picked up this data set from the University of California at Irvine library(https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
 
