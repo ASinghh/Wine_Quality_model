@@ -20,7 +20,8 @@ The data is collected using sensors. Seperated models are used for red and white
 R, Python
 
 ### R Packages Used
-
+* matrixStats
+* corrplot
 
 
 ## Hardware
